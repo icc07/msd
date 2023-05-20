@@ -61,12 +61,8 @@ int main() {
 	return 0;
 }
 
-/*output
-Enter no. of Node,no. of Edges and Starting Node of graph:
-4 3 0
-Enter pair of node and edges:
-0 1
-0 2
-2 4
-0 2 4 1 
-*/
+
+Run Command:
+g++ -fopenmp file_name -o output.out
+
+./output.out
