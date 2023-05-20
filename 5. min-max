@@ -63,3 +63,9 @@ int main() {
   sum_reduction(arr);
   average_reduction(arr);
 }
+
+
+Run Command:
+g++ -fopenmp file_name -o output.out
+
+./output.out
