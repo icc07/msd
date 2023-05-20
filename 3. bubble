@@ -78,3 +78,8 @@ int main()
 
     return 0;
 }
+
+Run Command:
+g++ -fopenmp file_name -o output.out
+
+./output.out
