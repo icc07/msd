@@ -61,6 +61,12 @@ int main() {
 	return 0;
 }
 
+Input:
+4 3 0
+0 1 
+0 2
+2 4
+
 
 Run Command:
 g++ -fopenmp file_name -o output.out
